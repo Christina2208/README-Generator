@@ -9,32 +9,52 @@ const questions = [
 {
     type: 'input',
     name: 'title',
-    message: 'What is the title of your project?'
+    message: 'What is the title of your project?',
 },
 {
     type: 'input',
     name: 'description',
-    message: 'Write a short description on what this porject is about.'
+    message: 'Write a short description on what this porject is about.',
 },
 {
     type: 'input',
-    name:
-    message:
+    name: 'license',
+    message: 'What license was used for this project?',
 },
 {
     type: 'input',
-    name:
-    message:
+    name: 'features',
+    message: 'What are some features about this project?',
 },
 {
     type: 'input',
-    name:
-    message:
+    name: 'require',
+    message: 'What dependencies were used in this project?',
 },
 {
     type: 'input',
-    name:
-    message:
+    name: 'usage',
+    message: 'What languages/technologies were used in this project?';
+},
+{
+    type: 'input',
+    name: 'GitHub User',
+    message: 'What is your GitHub username?',
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?',
+},
+{
+    type: 'input',
+    name: 'contributors',
+    message: 'List any contributors to this project with their Github username.'
+},
+{
+    type: 'input',
+    name: 'tests',
+    message: 'What are the tests done to this project, if applicable.'
 }
 ];
 

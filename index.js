@@ -18,8 +18,19 @@ const questions = [
 },
 {
     type: 'input',
+    name: 'screenshot',
+    message: 'What is the relative path for the screenshot?',
+},
+{
+    type: "input",
+    name: "link",
+    message: "What is the URL for users to access your deployed application?"
+},
+{
+    type: 'checkbox',
     name: 'license',
-    message: 'What license was used for this project?',
+    message: 'Choose what license was used for this project.',
+    choices: ["MIT","APACHE2.0", "Mozilla2.0", "none",]
 },
 {
     type: 'input',
@@ -28,13 +39,13 @@ const questions = [
 },
 {
     type: 'input',
-    name: 'require',
+    name: 'dependencies',
     message: 'What dependencies were used in this project?',
 },
 {
     type: 'input',
     name: 'usage',
-    message: 'What languages/technologies were used in this project?';
+    message: 'What languages/technologies were used in this project?',
 },
 {
     type: 'input',
@@ -49,7 +60,8 @@ const questions = [
 {
     type: 'input',
     name: 'contributors',
-    message: 'List any contributors to this project with their Github username.'
+    message: 'List any contributors to this project with their Github username.',
+    default: "",
 },
 {
     type: 'input',

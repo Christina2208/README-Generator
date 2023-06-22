@@ -8,11 +8,17 @@ https://christina2208.github.io/README-Generator/
 ![alt-text](https://github.com/Christina2208/README-Generator/blob/main/images/README%20Gen%20SS.png)
 ## Table of Contents
 *[Features](#features)
+
 *[Usage](#usage)
+
 *[Dependencies](#dependencies)
+
 *[Contributors](#contributors)
+
 *[Tests](#tests)
+
 *[GitHub](#user)
+
 *[Questions](#email)
 ## Features
 

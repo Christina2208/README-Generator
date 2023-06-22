@@ -2,8 +2,10 @@
 This is used to generate a README file by using a command-line application. 
 ## Deployed Application URL
 
+https://christina2208.github.io/README-Generator/
 ## Screenshot
-![alt-text](n/a)
+
+![alt-text](https://github.com/Christina2208/README-Generator/blob/main/images/README%20Gen%20SS.png)
 ## Table of Contents
 *[Features](#features)
 *[Usage](#usage)
@@ -13,16 +15,23 @@ This is used to generate a README file by using a command-line application.
 *[GitHub](#user)
 *[Questions](#email)
 ## Features
-n/a
+
+N/A
 ## Usage
-javascript
+
+javascript and Node were used to generate a README file. 
 ## Dependencies
-inquirer8.2.4
+
+inquirer 8.2.4
 ## Contributors
 
+N/A
 ## Tests
-n/a
+
+N/A
 ## GitHub
-christina2208
+
+https://github.com/Christina2208
 ## Questions
-Send all your questions [here](mailto:christina@gmail.com)
+
+Send all your questions [here](mailto:christinalf22@gmail.com)

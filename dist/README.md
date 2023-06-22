@@ -1,7 +1,9 @@
-# README-Generator
-This is used to generate a README file by using a command-line application. 
-## Deployed Application URL
+# ReadMe Generator
 
+## Description
+Creates a readme file through node
+## Deployed Application URL
+n/a
 ## Screenshot
 ![alt-text](n/a)
 ## Table of Contents
